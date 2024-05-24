@@ -46,3 +46,25 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/*CSS PRoJETO*/
+html{
+  font-size: 62.5;
+}
+
+body{
+  font-size: 1.6rem;
+  display: flex;
+  justify-content: center;
+  max-width: 144rem;
+}
+.container {
+  max-width: 144rem;
+  justify-content: center;
+  border: 0.2rem solid #000;
+  border-radius: 3rem;
+  padding: 1.6rem;
+  margin: 1.6rem;
+  width: 100%;
+  max-width: 144rem;
+}
